@@ -5,7 +5,7 @@
 #
 
 # pull base image
-FROM ubuntu:14.10
+FROM ubuntu:15.10
 
 # don't ask the user when running apt-get install
 ENV DEBIAN_FRONTEND noninteractive
